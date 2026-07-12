@@ -1,0 +1,8 @@
+node_modules/
+db/webhooks.sqlite
+.env
+npm-debug.log
+package-lock.json
+/.vscode
+dist/
+coverage/
